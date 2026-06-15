@@ -3,9 +3,8 @@
 A developer focused on learning, improving, and building real-world web applications.
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2000&pause=600&color=00FF7F&center=true&vCenter=true&width=900&lines=SYSTEM+STATUS+%5BONLINE%5D;Frontend+%E2%9C%93;Backend+%E2%9C%93;Database+%E2%9C%93;Building+Growing+Learning..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=55&duration=2500&pause=800&color=FF1493&center=true&vCenter=true&width=1800&height=120&lines=SYSTEM+STATUS+%5BONLINE%5D;Frontend+%E2%9C%93;Backend+%E2%9C%93;Database+%E2%9C%93;Building+Growing+Learning..." />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-3fb950?style=flat-square&labelColor=0d1117"/>
